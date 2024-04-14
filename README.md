@@ -31,7 +31,7 @@ Skilled in optimizing code and reducing processing time, with expertise in build
 
 <h2 align="left">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <div align="left">
-    <img src="https://skillicons.dev/icons?i=python,machinelearning,datascience,flask,django,azure,aws,git,postgresql,mongodb,docker,jira,pytest" /><br>
+    <img src="https://skillicons.dev/icons?i=python,flask,django,azure,aws,git,postgresql,mongodb,docker,github,vscode" /><br>
 </div>
 
 <br/>
