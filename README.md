@@ -43,9 +43,3 @@ Skilled in optimizing code and reducing processing time, with expertise in build
         <h3>- 📙Additional : Microservices, Azure Cognitive Services</h3>
 
  </div>
-
-
-<h2 align="left">📊 GitHub Stats 📊</h2>
-
-![Tamilselvan Arjunan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=tamilselvanarjun&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=tamilselvanarjun&show_icons=true&theme=radical)
