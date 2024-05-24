@@ -3,7 +3,7 @@
 
 
 <div align="left"> 
-  <a href="tamilselvan.arjunan1992@gmail.com" target="_blank">
+  <a href="t.arjun2024@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank" />
   </a> 
   <a href="https://www.linkedin.com/in/tamilselvan-arjunan/#/" target="_blank">
@@ -19,13 +19,13 @@ Skilled in optimizing code and reducing processing time, with expertise in build
 
 <div align="left">
  
- 🔭 I’m currently working at **UST** as a Senior Software Engineer
+ 🔭 I’m currently working as a Senior Software Engineer
  
  🌱 I’m currently learning more about **Azure Cognitive Services**
 
 💬 Ask me about **Python, Machine Learning, Data Science**
 
-📧 Reach me out: tamilselvan.arjunan@ust.com
+📧 Reach me out: t.arjun2024@gmail.com
 
  </div>
 
