@@ -25,7 +25,7 @@ Skilled in optimizing code and reducing processing time, with expertise in build
 
 💬 Ask me about **Python, Machine Learning, Data Science**
 
-📧 Reach me out: t.arjun2024@gmail.com
+📧 Reach me out: nishantamil@gmail.com
 
  </div>
 
