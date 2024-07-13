@@ -12,7 +12,7 @@
 </div>
 
 <br> 
-Motivated and results-driven Senior Software Engineer with over 8 years of experience specializing in Python, Machine Learning programming, and analytical coding. Experienced in the full software development life cycle, including architecting scalable platforms and object-oriented programming.
+Motivated and results-driven Senior Software Engineer with over 7 years of experience specializing in Python, Machine Learning programming, and analytical coding. Experienced in the full software development life cycle, including architecting scalable platforms and object-oriented programming.
 Skilled in optimizing code and reducing processing time, with expertise in building Microservices using Flask, Django, and FastAPI. <br>
 
 <br> 
