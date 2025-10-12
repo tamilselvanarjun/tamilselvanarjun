@@ -1,4 +1,4 @@
-<h1 align="left">👋 Hi, I'm Tamil Selvan</h1>
+<h1 align="left">👋 Hi, I'm Tamilselvan Arjunan</h1>
 <h3 align="left">Senior Software Engineer | Python Enthusiast | Data Science Advocate</h3>
 
 
