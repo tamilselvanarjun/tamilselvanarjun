@@ -1,5 +1,5 @@
 <h1 align="left">👋 Hi, I'm Tamilselvan Arjunan</h1>
-<h3 align="left">Senior Software Engineer | Python Enthusiast | Data Science Advocate</h3>
+<h3 align="left">Senior Python Software Engineer </h3>
 
 
 <div align="left"> 
